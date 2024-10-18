@@ -1,0 +1,13 @@
+strategy,annotated_difference_ratio
+diversity,0.2217323840817817
+entropy,0.21391256636523417
+fluctuation_history,0.47205688669277013
+information_density,0.34984047000561336
+k_means_bert,0.3908354377104377
+least_confidence,0.18655402031406046
+margin_confidence,0.1728002713803058
+representative_diversity,0.3359593196890662
+round_robin,0.2421667450515602
+sequential_representation_lc,0.39483244431460945
+tag_count,0.4313048919067823
+tag_flip,0.3530118858276316

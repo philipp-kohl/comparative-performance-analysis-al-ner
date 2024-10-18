@@ -1,0 +1,13 @@
+metric_name,strategy,total_cpg
+test_f1_macro,diversity,2.073205323567631
+test_f1_macro,entropy,1.4905142234742275
+test_f1_macro,fluctuation_history,4.663920281299007
+test_f1_macro,information_density,5.445857497408205
+test_f1_macro,k_means_bert,1.5271319898082376
+test_f1_macro,least_confidence,1.6434572638972897
+test_f1_macro,margin_confidence,1.2391469215113573
+test_f1_macro,representative_diversity,3.1796035649853627
+test_f1_macro,round_robin,4.755101833968573
+test_f1_macro,sequential_representation_lc,6.0675660168989065
+test_f1_macro,tag_count,8.169236356768774
+test_f1_macro,tag_flip,6.303716085262879

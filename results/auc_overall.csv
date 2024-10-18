@@ -1,0 +1,14 @@
+metric_name,strategy,auc_diff
+test_f1_macro,diversity,62.14611555182163
+test_f1_macro,entropy,90.64269875538525
+test_f1_macro,fluctuation_history,455.5029890331124
+test_f1_macro,information_density,213.12420080645146
+test_f1_macro,k_means_bert,11.29410181379396
+test_f1_macro,least_confidence,97.55736616813958
+test_f1_macro,margin_confidence,76.88308100083852
+test_f1_macro,randomizer,0.0
+test_f1_macro,representative_diversity,98.72401422789905
+test_f1_macro,round_robin,193.72999416299197
+test_f1_macro,sequential_representation_lc,252.12695696176866
+test_f1_macro,tag_count,461.43608044456795
+test_f1_macro,tag_flip,267.9801300630008
