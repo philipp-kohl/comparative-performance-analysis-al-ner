@@ -24,7 +24,14 @@ Prerequisite:
 - [git](https://git-scm.com/)
 - [poetry](https://python-poetry.org/docs/main/#installing-with-pipx)
 
-Run main.py to recreate results or start your own evaluations based on our data. 
+```bash
+poetry install
+```
+
+Run main.py to recreate results or start your own evaluations based on our data.
+```bash
+python ./main.py
+```
 
 ## Citation
 If you find this code useful in your research, please cite:
