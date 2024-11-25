@@ -1,10 +1,10 @@
 # Comparative Performance Analysis of Active Learning Strategies for the Entity Recognition Task
 
-This is the repository for the paper [Comparative Performance Analysis of Active Learning Strategies for the Entity Recognition Task](TODO: Add after publication).
-Here you can find additional information and details for each experiment. 
+This is the repository for the paper [Comparative Performance Analysis of Active Learning Strategies for the Entity Recognition Task](https://www.scitepress.org/PublicationsDetail.aspx?ID=hPqBQakAw8Y=&t=1).
+Here, you can find additional information and details for each experiment. 
 
 The structure is as follows:
-- **google_sheet**: We tracked all experiments in a collaborative Google Tables file. Here you can find a mapping of the experiment_id and run_id to a semantic name for the experiment. This can be helpful for working with the MLflow raw data. Here you see an example row of the data:
+- **google_sheet**: We tracked all experiments in a collaborative Google Tables file. Here, you can find a mapping of the experiment_id and run_id to a semantic name for the experiment. This can be helpful for working with the MLflow raw data. Here you see an example row of the data:
 
 | experiment_name                        | corpus    | experiment_id | run_id                              | experiment_type | strategy  |
 |----------------------------------------|-----------|---------------|-------------------------------------|-----------------|-----------|
@@ -37,7 +37,16 @@ python ./main.py
 If you find this code useful in your research, please cite:
 
 ```
-@inproceedings{TODO,
-  title = {Comparative Performance Analysis of Active Learning Strategies for the Entity Recognition Task},
+@conference{kohl_comparative_al_2024,
+author={Philipp Kohl. and Yoka Krämer. and Claudia Fohry. and Bodo Kraft.},
+title={Comparative Performance Analysis of Active Learning Strategies for the Entity Recognition Task},
+booktitle={Proceedings of the 16th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - KDIR},
+year={2024},
+pages={480-488},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013068200003838},
+isbn={978-989-758-716-0},
+issn={2184-3228},
 }
 ```
